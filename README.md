@@ -13,6 +13,7 @@
   npm i
   ## Usage
   node index.js to run
+  [Video Demonstration](https://youtu.be/tWn2RQIn4uw)
   ## Tests
   N/A
   ## License
